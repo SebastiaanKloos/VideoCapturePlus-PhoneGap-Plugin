@@ -1,0 +1,12 @@
+{
+  "name": "VideoCapturePlus-PhoneGap-Plugin",
+  "version": "1.3.0",
+  "description": "This is the package.json for VideoCapturePlus-PhoneGap-Plugin repository. See src/package.json for the library itself.",
+  "repository": "git@github.com:sebastiaankloos/videocaptureplus-phonegap-plugin.git",
+  "author": "Sebastiaan Kloos <sebastiaan@codecycler.com>",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}
